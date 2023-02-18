@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023-02-11 15:30:35.000.797,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023-02-11 15:31:40.000.403,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\menu.dfm</Transaction>
+    <Transaction>2023-02-11 15:31:40.000.403,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\menu.pas</Transaction>
+    <Transaction>2023-02-11 15:31:44.000.653,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\CRUD.dproj</Transaction>
+    <Transaction>2023-02-11 16:03:20.000.553,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-11 16:17:00.000.105,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\clientes.pas</Transaction>
+    <Transaction>2023-02-11 16:17:00.000.105,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\clientes.dfm</Transaction>
+    <Transaction>2023-02-11 16:42:27.000.187,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-11 16:50:03.000.737,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\productos.pas</Transaction>
+    <Transaction>2023-02-11 16:50:03.000.737,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\productos.dfm</Transaction>
+    <Transaction>2023-02-15 04:35:51.000.084,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-15 04:36:36.000.098,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\modulo.dfm</Transaction>
+    <Transaction>2023-02-15 04:36:36.000.098,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\modulo.pas</Transaction>
+    <Transaction>2023-02-15 05:00:00.000.260,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-15 05:15:42.000.913,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\clientes.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Nclientes.pas</Transaction>
+    <Transaction>2023-02-15 05:15:42.000.913,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\clientes.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Nclientes.dfm</Transaction>
+    <Transaction>2023-02-15 05:15:59.000.356,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.dfm=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\clientes.dfm</Transaction>
+    <Transaction>2023-02-15 05:15:59.000.356,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\CRUD Clientes\clientes.pas</Transaction>
+    <Transaction>2023-02-16 08:20:42.000.261,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\productos.dfm=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Nproductos.dfm</Transaction>
+    <Transaction>2023-02-16 08:20:42.000.261,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\productos.pas=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Nproductos.pas</Transaction>
+    <Transaction>2023-02-16 08:21:04.000.145,=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-16 08:21:35.000.494,=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-16 08:27:48.000.196,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\productos.pas</Transaction>
+    <Transaction>2023-02-16 08:27:48.000.196,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.dfm=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\productos.dfm</Transaction>
+    <Transaction>2023-02-16 09:03:14.000.037,=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-16 09:49:16.000.370,=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-17 06:03:31.000.430,=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\facturar.pas</Transaction>
+    <Transaction>2023-02-17 06:05:29.000.689,=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-17 06:05:45.000.170,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\facturar.pas=</Transaction>
+    <Transaction>2023-02-17 06:05:59.000.929,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.dfm=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\facturar.dfm</Transaction>
+    <Transaction>2023-02-17 06:05:59.000.929,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\facturar.pas</Transaction>
+    <Transaction>2023-02-17 06:08:48.000.603,=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-17 06:09:39.000.891,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.dfm=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Bproductos.dfm</Transaction>
+    <Transaction>2023-02-17 06:09:39.000.891,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Bproductos.pas</Transaction>
+    <Transaction>2023-02-18 00:05:02.000.985,=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+    <Transaction>2023-02-18 00:24:03.000.977,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Bclientes.dfm=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.dfm</Transaction>
+    <Transaction>2023-02-18 00:24:03.000.977,D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Bclientes.pas=D:\Users\Dilena\Documents\Embarcadero\Studio\Projects\CRUD Clientes\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Bclientes.pas"/>
+    <File Path="Bclientes.dfm"/>
+    <File Path="Bproductos.pas"/>
+    <File Path="Bproductos.dfm"/>
+    <File Path="clientes.pas"/>
+    <File Path="clientes.dfm"/>
+    <File Path="facturar.pas"/>
+    <File Path="facturar.dfm"/>
+    <File Path="menu.pas"/>
+    <File Path="menu.dfm"/>
+    <File Path="modulo.pas"/>
+    <File Path="modulo.dfm"/>
+    <File Path="productos.pas"/>
+    <File Path="productos.dfm"/>
+    <File Path="Nclientes.pas"/>
+    <File Path="Nclientes.dfm"/>
+    <File Path="Nproductos.pas"/>
+    <File Path="Nproductos.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
